@@ -200,7 +200,7 @@ section {
 
 .courses .box-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
     gap: 1.5rem;
 }
 
@@ -256,7 +256,7 @@ section {
 
 .teachers .box-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
     gap: 1.5rem;
 }
 
@@ -312,7 +312,7 @@ section {
 
 .plan .box-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
     gap: 1.5rem;
 }
 
@@ -387,7 +387,7 @@ section {
 
 .review .box-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
     gap: 1.5rem;
 }
 
